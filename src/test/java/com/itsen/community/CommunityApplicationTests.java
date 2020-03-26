@@ -1,4 +1,4 @@
-package cn.itsen.community;
+package com.itsen.community;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
